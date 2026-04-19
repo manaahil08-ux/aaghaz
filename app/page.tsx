@@ -75,25 +75,25 @@ export default function AaghazWebsite() {
 
         <div className="grid md:grid-cols-3 gap-6 mt-10">
           <div className="bg-white p-6 rounded-3xl shadow">
-            <div className="text-4xl mb-3">🎨</div>
-            <h4 className="font-bold text-xl">Ages 4 to 6</h4>
-            <p className="mt-3 text-slate-600">
+            <div className="text-4xl mb-3 text-center">🎨</div>
+            <h4 className="font-bold text-xl text-center">Ages 4 to 6</h4>
+            <p className="mt-3 text-slate-600 text-center">
               Play based learning with actions, songs and visuals
             </p>
           </div>
 
           <div className="bg-white p-6 rounded-3xl shadow">
-            <div className="text-4xl mb-3">🗣️</div>
-            <h4 className="font-bold text-xl">Ages 7 to 10</h4>
-            <p className="mt-3 text-slate-600">
+            <div className="text-4xl mb-3 text-center">🗣️</div>
+            <h4 className="font-bold text-xl text-center">Ages 7 to 10</h4>
+            <p className="mt-3 text-slate-600 text-center">
               Conversation, vocabulary and fun activities
             </p>
           </div>
 
           <div className="bg-white p-6 rounded-3xl shadow">
-            <div className="text-4xl mb-3">✍️</div>
-            <h4 className="font-bold text-xl">Ages 11 to 14</h4>
-            <p className="mt-3 text-slate-600">
+            <div className="text-4xl mb-3 text-center">✍️</div>
+            <h4 className="font-bold text-xl text-center">Ages 11 to 14</h4>
+            <p className="mt-3 text-slate-600 text-center">
               Structured Urdu speaking, reading and writing
             </p>
           </div>
@@ -128,16 +128,16 @@ export default function AaghazWebsite() {
 
         <div className="grid md:grid-cols-3 gap-6 mt-10">
           <div className="bg-white p-6 rounded-3xl shadow">
-            <p className="text-4xl mb-3 center-title">⭐</p>
-            <p>"My child loves these classes every week."</p>
+            <p className="text-4xl mb-3 text-center">⭐</p>
+            <p className= "text-center">"My child loves these classes every week."</p>
           </div>
           <div className="bg-white p-6 rounded-3xl shadow">
-            <p className="text-4xl mb-3 center-title">💬</p>
-            <p>"Very interactive and engaging."</p>
+            <p className="text-4xl mb-3 text-center">💬</p>
+            <p className= "text-center">"Very interactive and engaging."</p>
           </div>
           <div className="bg-white p-6 rounded-3xl shadow">
-            <p className="text-4xl mb-3 center-title">🌱</p>
-            <p>"We’ve seen real improvement."</p>
+            <p className="text-4xl mb-3 text-center">🌱</p>
+            <p className= "text-center">"We’ve seen real improvement."</p>
           </div>
         </div>
       </section>
