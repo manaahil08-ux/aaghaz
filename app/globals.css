@@ -1,9 +1,5 @@
 @import "tailwindcss";
 
-.center-title {
-  text-align: center;
-}
-
 :root {
   --background: #ffffff;
   --foreground: #171717;
