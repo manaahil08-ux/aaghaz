@@ -128,15 +128,15 @@ export default function AaghazWebsite() {
 
         <div className="grid md:grid-cols-3 gap-6 mt-10">
           <div className="bg-white p-6 rounded-3xl shadow">
-            <p className="text-4xl mb-3">⭐</p>
+            <p className="text-4xl mb-3 center-title">⭐</p>
             <p>"My child loves these classes every week."</p>
           </div>
           <div className="bg-white p-6 rounded-3xl shadow">
-            <p className="text-4xl mb-3">💬</p>
+            <p className="text-4xl mb-3 center-title">💬</p>
             <p>"Very interactive and engaging."</p>
           </div>
           <div className="bg-white p-6 rounded-3xl shadow">
-            <p className="text-4xl mb-3">🌱</p>
+            <p className="text-4xl mb-3 center-title">🌱</p>
             <p>"We’ve seen real improvement."</p>
           </div>
         </div>
